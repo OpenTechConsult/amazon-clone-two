@@ -23,8 +23,8 @@
 }
 
 .header__search__input {
-    height: 10;
-    padding: 10px;
+    height: 20px;
+    padding: 8px;
     border: none;
     width: 100%;
 }
